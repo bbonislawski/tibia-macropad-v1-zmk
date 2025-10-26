@@ -1,5 +1,5 @@
 #include <dt-bindings/zmk/matrix_transform.h>
-#include "eternal_keypad.dtsi"
+#include "eternal.dtsi"
 
 /
 {
