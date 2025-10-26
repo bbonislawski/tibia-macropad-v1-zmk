@@ -1,0 +1,12 @@
+name: Macropad Tibia
+url: https://github.com/bbonislawski
+maintainers:
+  - Boni
+features:
+  - keys
+matrix:
+  rows: 5
+  cols: 6
+  diode_direction: COL2ROW
+microcontroller: nrf52840
+board: nice_nano_v2
