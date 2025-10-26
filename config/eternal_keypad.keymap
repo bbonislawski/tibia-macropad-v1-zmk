@@ -22,7 +22,7 @@
             &kp TAB   &kp Q     &kp W    &kp E     &kp R      &kp T
             &kp CAPS  &kp A     &kp S    &kp D     &kp F      &kp G
             &kp LSHFT &kp Z     &kp X    &kp C     &kp V      &kp B
-            &kp LCTRL &sl FUNC  &kp LALT           &kp SPACE  &kp ENTER
+            &kp LCTRL &kp LALT  &kp L    &kp K     &kp SPACE  &kp ENTER
           >;
         };
     };
