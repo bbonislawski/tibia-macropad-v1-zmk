@@ -5,7 +5,7 @@ maintainers:
 features:
   - keys
 matrix:
-  rows: 5
+  rows: 6
   cols: 6
   diode_direction: COL2ROW
 microcontroller: nrf52840

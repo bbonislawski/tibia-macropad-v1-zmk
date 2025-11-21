@@ -2,7 +2,7 @@
     "name": "Boni Tibia Macropad",
     "maintainers": ["Boni"],
     "features": ["keys"],
-    "matrix": { "rows": 5, "cols": 6, "diode_direction": "COL2ROW" },
+    "matrix": { "rows": 6, "cols": 6, "diode_direction": "COL2ROW" },
     "layouts": {
       "keymap": {
         "layout": [
@@ -39,7 +39,14 @@
           { "x": 2, "y": 4, "row": 4, "col": 2 },
           { "x": 3, "y": 4, "row": 4, "col": 3 },
           { "x": 4, "y": 4, "row": 4, "col": 4 },
-          { "x": 5, "y": 4, "row": 4, "col": 5 }
+          { "x": 5, "y": 4, "row": 4, "col": 5 },
+
+          { "x": 0, "y": 5, "row": 4, "col": 0 },
+          { "x": 1, "y": 5, "row": 4, "col": 1 },
+          { "x": 2, "y": 5, "row": 4, "col": 2 },
+          { "x": 3, "y": 5, "row": 4, "col": 3 },
+          { "x": 4, "y": 5, "row": 4, "col": 4 },
+          { "x": 5, "y": 5, "row": 4, "col": 5 }
         ]
       }
     }
